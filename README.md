@@ -1,4 +1,4 @@
-# TripEase : A MERN web-application!
+# TripEase : A MERN web-application!  [Click Me](https://tripeasego.netlify.app/)
 
 ## Author : Jay Ramani
 
